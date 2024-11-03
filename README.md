@@ -3,7 +3,7 @@
 - Start : 2024.11.04
   
 ## 학습 자료
-<p>✅ QR Code 생성 관련 Site : [https://ko.javascript.info/](https://goqr.me/api/)</p> 
+<p>✅ QR Code 생성 관련 Site : https://goqr.me/api/</p> 
 
 ## 프로젝트 파일 구성
 ### 폴더 생성

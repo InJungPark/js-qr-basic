@@ -5,6 +5,8 @@
 ## 학습 자료
 <p>✅ QR Code 생성 관련 Site : https://goqr.me/api/</p> 
 
+## author : PARK INJUNG
+
 ## 프로젝트 파일 구성
 ### 폴더 생성
 - 해당 project 폴더 만들기

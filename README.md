@@ -22,6 +22,8 @@
 ### 실습 완료 스크린샷
 ![image](https://github.com/user-attachments/assets/7ae0c4ad-fb77-4726-b22c-de8825098eb7)
 ![image](https://github.com/user-attachments/assets/4c9e3d7c-c8e5-40e3-a2f5-3d81e7279c59)
+![image](https://github.com/user-attachments/assets/a08acada-32c9-4af2-9dfb-87ef30d4f878)
+
 ![image](https://github.com/user-attachments/assets/47c8fd6f-0dc5-4bee-8998-c3e226ea3afa)
 
 

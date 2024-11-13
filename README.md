@@ -5,7 +5,7 @@
 ## author : PARK INJUNG
 
 ## 파일 구성
-### 폴더 생성
+### 폴더 생성 
 - 해당 project 폴더 만들기
 
 ### 파일 생성

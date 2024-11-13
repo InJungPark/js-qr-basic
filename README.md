@@ -1,7 +1,4 @@
 # JavaScrpit 기초 실습하기 : QR Code
-## 프로젝트 기간
-- Start : 2024.11.04
-  
 ## 학습 자료
 <p>✅ QR Code 생성 관련 Site : https://goqr.me/api/</p> 
 
